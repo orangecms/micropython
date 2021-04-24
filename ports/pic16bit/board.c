@@ -24,7 +24,7 @@
  * THE SOFTWARE.
  */
 
-#include <p33Fxxxx.h>
+#include <p24Exxxx.h>
 #include "board.h"
 
 /********************************************************************/

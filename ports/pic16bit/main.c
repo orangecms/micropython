@@ -27,7 +27,7 @@
 #include <stdint.h>
 #include <stdio.h>
 #include <string.h>
-#include <p33Fxxxx.h>
+#include <p24Exxxx.h>
 
 #include "py/compile.h"
 #include "py/runtime.h"
