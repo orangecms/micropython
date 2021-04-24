@@ -40,7 +40,7 @@
 #include "modpyb.h"
 
 #pragma config GWRP = OFF
-#pragma config GSS = GCP_OFF
+//#pragma config GSS = GCP_OFF
 #pragma config FNOSC = FRC
 #pragma config FCKSM = CSECMD
 #pragma config OSCIOFNC = ON
