@@ -24,6 +24,12 @@
  * THE SOFTWARE.
  */
 
+/*
+see also:
+https://github.com/micropython/micropython/issues/5176
+https://github.com/jacklinquan/micropython/commit/09c8d369980c558fcdd0980c1b615aea65c6254d
+*/
+
 #include <stdint.h>
 #include <stdio.h>
 #include <string.h>
